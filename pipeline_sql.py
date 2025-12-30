@@ -1,14 +1,15 @@
 import duckdb
 import os
 
-
-# CONFIG — Windows + Power BI Free safe
-
-
 DB_PATH = r"C:/Users/sandy/Desktop/delivery-market-analysis/takeaway.db"
 EXPORT_DIR = r"C:/Users/sandy/OneDrive/Documents/PowerBI_CSVs"
 
-os.makedirs(EXPORT_DIR, exist_ok=True)
+os.makedirs(EXPORT_DIR, exisimport duckdb
+import os
+
+
+# CONFIG — Windows + Power BI Free safe
+t_ok=True)
 
 
 # CONNECT TO DUCKDB (IN-MEMORY)
