@@ -82,7 +82,7 @@ The work refers to the database diagram. Usage of SQL queries allows explorating
       5. What are the top 10 restaurants for deserts?
       6. What are the 10 worst restaurants?
     
-  - SQL queries have been optimized for speed and readability.
+   - SQL queries have been optimized for speed and readability.
 
 3. **Store in CSV files**  
    - CSV files circumvent SQLite extension issues and PowerBI restrictions.
